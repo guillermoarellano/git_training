@@ -1,3 +1,5 @@
 This is Bob file.
 
 Hi!! I'm Bob. I'm new here.
+
+Bob getting more information.
