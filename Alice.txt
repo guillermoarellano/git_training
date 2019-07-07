@@ -9,3 +9,7 @@ Divergent merging test
 Rebasing tests
 
 Simulating an upstream change contribution.
+
+Git pull remote test
+
+And then git stash pop test.
