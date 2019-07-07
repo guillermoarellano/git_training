@@ -7,3 +7,5 @@ Modifying Alice just for fun.
 Divergent merging test
 
 Rebasing tests
+
+Simulating an upstream change contribution.
