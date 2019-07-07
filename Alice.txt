@@ -5,3 +5,5 @@ Here's some additional text.
 Modifying Alice just for fun.
 
 Divergent merging test
+
+Rebasing tests
